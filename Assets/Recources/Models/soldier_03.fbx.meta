@@ -1,0 +1,1061 @@
+fileFormatVersion: 2
+guid: 1627a13e60e52c741a498d90ab8ce2f0
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Biped_Shadow:Biped_Shadow
+  - first:
+      1: 100002
+    second: Biped_Shadow:ChestBone1
+  - first:
+      1: 100004
+    second: Biped_Shadow:GlobalSRT
+  - first:
+      1: 100006
+    second: Biped_Shadow:Head
+  - first:
+      1: 100008
+    second: Biped_Shadow:LBicep
+  - first:
+      1: 100010
+    second: Biped_Shadow:LFootBone1
+  - first:
+      1: 100012
+    second: Biped_Shadow:LFootBone2
+  - first:
+      1: 100014
+    second: Biped_Shadow:LForearm
+  - first:
+      1: 100016
+    second: Biped_Shadow:LHand
+  - first:
+      1: 100018
+    second: Biped_Shadow:LIndex1
+  - first:
+      1: 100020
+    second: Biped_Shadow:LIndex2
+  - first:
+      1: 100022
+    second: Biped_Shadow:LIndex3
+  - first:
+      1: 100024
+    second: Biped_Shadow:LMiddle1
+  - first:
+      1: 100026
+    second: Biped_Shadow:LMiddle2
+  - first:
+      1: 100028
+    second: Biped_Shadow:LMiddle3
+  - first:
+      1: 100030
+    second: Biped_Shadow:LPinky1
+  - first:
+      1: 100032
+    second: Biped_Shadow:LPinky2
+  - first:
+      1: 100034
+    second: Biped_Shadow:LPinky3
+  - first:
+      1: 100036
+    second: Biped_Shadow:LRing1
+  - first:
+      1: 100038
+    second: Biped_Shadow:LRing2
+  - first:
+      1: 100040
+    second: Biped_Shadow:LRing3
+  - first:
+      1: 100042
+    second: Biped_Shadow:LShin
+  - first:
+      1: 100044
+    second: Biped_Shadow:LShoulder
+  - first:
+      1: 100046
+    second: Biped_Shadow:LThigh
+  - first:
+      1: 100048
+    second: Biped_Shadow:LThumb1
+  - first:
+      1: 100050
+    second: Biped_Shadow:LThumb2
+  - first:
+      1: 100052
+    second: Biped_Shadow:LThumb3
+  - first:
+      1: 100054
+    second: Biped_Shadow:Neck
+  - first:
+      1: 100056
+    second: Biped_Shadow:RBicep
+  - first:
+      1: 100058
+    second: Biped_Shadow:RFootBone1
+  - first:
+      1: 100060
+    second: Biped_Shadow:RFootBone2
+  - first:
+      1: 100062
+    second: Biped_Shadow:RForearm
+  - first:
+      1: 100064
+    second: Biped_Shadow:RHand
+  - first:
+      1: 100066
+    second: Biped_Shadow:RIndex1
+  - first:
+      1: 100068
+    second: Biped_Shadow:RIndex2
+  - first:
+      1: 100070
+    second: Biped_Shadow:RIndex3
+  - first:
+      1: 100072
+    second: Biped_Shadow:RMiddle1
+  - first:
+      1: 100074
+    second: Biped_Shadow:RMiddle2
+  - first:
+      1: 100076
+    second: Biped_Shadow:RMiddle3
+  - first:
+      1: 100078
+    second: Biped_Shadow:RPinky1
+  - first:
+      1: 100080
+    second: Biped_Shadow:RPinky2
+  - first:
+      1: 100082
+    second: Biped_Shadow:RPinky3
+  - first:
+      1: 100084
+    second: Biped_Shadow:RRing1
+  - first:
+      1: 100086
+    second: Biped_Shadow:RRing2
+  - first:
+      1: 100088
+    second: Biped_Shadow:RRing3
+  - first:
+      1: 100090
+    second: Biped_Shadow:RShin
+  - first:
+      1: 100092
+    second: Biped_Shadow:RShoulder
+  - first:
+      1: 100094
+    second: Biped_Shadow:RThigh
+  - first:
+      1: 100096
+    second: Biped_Shadow:RThumb1
+  - first:
+      1: 100098
+    second: Biped_Shadow:RThumb2
+  - first:
+      1: 100100
+    second: Biped_Shadow:RThumb3
+  - first:
+      1: 100102
+    second: Biped_Shadow:SpineStart1
+  - first:
+      1: 100104
+    second: Biped_Shadow:SpineVertebra1
+  - first:
+      1: 100106
+    second: Biped_Shadow:UpperBody
+  - first:
+      1: 100108
+    second: //RootNode
+  - first:
+      1: 100110
+    second: soldier_03
+  - first:
+      4: 400000
+    second: Biped_Shadow:Biped_Shadow
+  - first:
+      4: 400002
+    second: Biped_Shadow:ChestBone1
+  - first:
+      4: 400004
+    second: Biped_Shadow:GlobalSRT
+  - first:
+      4: 400006
+    second: Biped_Shadow:Head
+  - first:
+      4: 400008
+    second: Biped_Shadow:LBicep
+  - first:
+      4: 400010
+    second: Biped_Shadow:LFootBone1
+  - first:
+      4: 400012
+    second: Biped_Shadow:LFootBone2
+  - first:
+      4: 400014
+    second: Biped_Shadow:LForearm
+  - first:
+      4: 400016
+    second: Biped_Shadow:LHand
+  - first:
+      4: 400018
+    second: Biped_Shadow:LIndex1
+  - first:
+      4: 400020
+    second: Biped_Shadow:LIndex2
+  - first:
+      4: 400022
+    second: Biped_Shadow:LIndex3
+  - first:
+      4: 400024
+    second: Biped_Shadow:LMiddle1
+  - first:
+      4: 400026
+    second: Biped_Shadow:LMiddle2
+  - first:
+      4: 400028
+    second: Biped_Shadow:LMiddle3
+  - first:
+      4: 400030
+    second: Biped_Shadow:LPinky1
+  - first:
+      4: 400032
+    second: Biped_Shadow:LPinky2
+  - first:
+      4: 400034
+    second: Biped_Shadow:LPinky3
+  - first:
+      4: 400036
+    second: Biped_Shadow:LRing1
+  - first:
+      4: 400038
+    second: Biped_Shadow:LRing2
+  - first:
+      4: 400040
+    second: Biped_Shadow:LRing3
+  - first:
+      4: 400042
+    second: Biped_Shadow:LShin
+  - first:
+      4: 400044
+    second: Biped_Shadow:LShoulder
+  - first:
+      4: 400046
+    second: Biped_Shadow:LThigh
+  - first:
+      4: 400048
+    second: Biped_Shadow:LThumb1
+  - first:
+      4: 400050
+    second: Biped_Shadow:LThumb2
+  - first:
+      4: 400052
+    second: Biped_Shadow:LThumb3
+  - first:
+      4: 400054
+    second: Biped_Shadow:Neck
+  - first:
+      4: 400056
+    second: Biped_Shadow:RBicep
+  - first:
+      4: 400058
+    second: Biped_Shadow:RFootBone1
+  - first:
+      4: 400060
+    second: Biped_Shadow:RFootBone2
+  - first:
+      4: 400062
+    second: Biped_Shadow:RForearm
+  - first:
+      4: 400064
+    second: Biped_Shadow:RHand
+  - first:
+      4: 400066
+    second: Biped_Shadow:RIndex1
+  - first:
+      4: 400068
+    second: Biped_Shadow:RIndex2
+  - first:
+      4: 400070
+    second: Biped_Shadow:RIndex3
+  - first:
+      4: 400072
+    second: Biped_Shadow:RMiddle1
+  - first:
+      4: 400074
+    second: Biped_Shadow:RMiddle2
+  - first:
+      4: 400076
+    second: Biped_Shadow:RMiddle3
+  - first:
+      4: 400078
+    second: Biped_Shadow:RPinky1
+  - first:
+      4: 400080
+    second: Biped_Shadow:RPinky2
+  - first:
+      4: 400082
+    second: Biped_Shadow:RPinky3
+  - first:
+      4: 400084
+    second: Biped_Shadow:RRing1
+  - first:
+      4: 400086
+    second: Biped_Shadow:RRing2
+  - first:
+      4: 400088
+    second: Biped_Shadow:RRing3
+  - first:
+      4: 400090
+    second: Biped_Shadow:RShin
+  - first:
+      4: 400092
+    second: Biped_Shadow:RShoulder
+  - first:
+      4: 400094
+    second: Biped_Shadow:RThigh
+  - first:
+      4: 400096
+    second: Biped_Shadow:RThumb1
+  - first:
+      4: 400098
+    second: Biped_Shadow:RThumb2
+  - first:
+      4: 400100
+    second: Biped_Shadow:RThumb3
+  - first:
+      4: 400102
+    second: Biped_Shadow:SpineStart1
+  - first:
+      4: 400104
+    second: Biped_Shadow:SpineVertebra1
+  - first:
+      4: 400106
+    second: Biped_Shadow:UpperBody
+  - first:
+      4: 400108
+    second: //RootNode
+  - first:
+      4: 400110
+    second: soldier_03
+  - first:
+      43: 4300000
+    second: soldier_03
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: soldier_03
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material6
+    second: {fileID: 2100000, guid: 268edb750a8df8f4eb30b347f074d47f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 1827226128182048838
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Biped_Shadow:UpperBody
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:LThigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:RThigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:LShin
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:RShin
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:LFootBone1
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:RFootBone1
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:ChestBone1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:LShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:RShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:LBicep
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:RBicep
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:LForearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:RForearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:LHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:RHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:LFootBone2
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:RFootBone2
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:LThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:LThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:LThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:LIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:LIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:LIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:LMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:LMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:LMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:RThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:RThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:RThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:RIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:RIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:RIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:RMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:RMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Biped_Shadow:RMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: soldier_03(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:Biped_Shadow
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:GlobalSRT
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:UpperBody
+      parentName: 
+      position: {x: 0, y: 1.0074662, z: -0.052678116}
+      rotation: {x: -1.7347235e-18, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:SpineStart1
+      parentName: 
+      position: {x: -0, y: 0.0772289, z: -0.0127543425}
+      rotation: {x: -0.01122886, y: 0, z: -0, w: 0.999937}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:SpineVertebra1
+      parentName: 
+      position: {x: -0, y: 0.11671236, z: -0.008660778}
+      rotation: {x: -0.004979282, y: 0, z: -0, w: 0.9999876}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:ChestBone1
+      parentName: 
+      position: {x: -1.7732617e-15, y: 0.11657482, z: 0.009822021}
+      rotation: {x: 0.06370587, y: -9.839223e-14, z: 5.9767615e-15, w: 0.99796873}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:RShoulder
+      parentName: 
+      position: {x: 0.054584675, y: 0.46474734, z: -0.024940344}
+      rotation: {x: 0.64389676, y: -0.07858228, z: -0.13843828, w: 0.74836946}
+      scale: {x: -1, y: -1, z: -1}
+    - name: Biped_Shadow:RBicep
+      parentName: 
+      position: {x: -0.27698284, y: -1.3322676e-16, z: 7.355227e-17}
+      rotation: {x: 0.15804283, y: 0.1342881, z: 0.034441534, w: 0.9776517}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:RForearm
+      parentName: 
+      position: {x: -0.2524132, y: 0, z: 1.5543121e-16}
+      rotation: {x: -0.0035892236, y: 0.017968526, z: 0.024385687, w: 0.9995347}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:RHand
+      parentName: 
+      position: {x: -0.327329, y: 7.0499156e-16, z: 4.1910918e-16}
+      rotation: {x: 0.59945464, y: -0.04175912, z: -0.041560303, w: 0.79823756}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:RPinky1
+      parentName: 
+      position: {x: -0.09982746, y: -0.0074688825, z: -0.030542145}
+      rotation: {x: 0.9678892, y: -0.06658782, z: 0.24239542, w: 0.0010452151}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:RPinky2
+      parentName: 
+      position: {x: -0.033355225, y: 5.5771356e-17, z: 0}
+      rotation: {x: -0.00002967204, y: -0.0066379076, z: -0.004469946, w: 0.999968}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:RPinky3
+      parentName: 
+      position: {x: -0.016219607, y: -9.6884303e-17, z: 1.11022296e-17}
+      rotation: {x: -0.000029536977, y: 0.0022096625, z: 0.013365964, w: 0.99990827}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:RRing1
+      parentName: 
+      position: {x: -0.10793395, y: 0.0037271706, z: -0.010816335}
+      rotation: {x: 0.98854166, y: -0.028889392, z: 0.14792196, w: 0.0083602145}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:RRing2
+      parentName: 
+      position: {x: -0.035794996, y: 3.122502e-17, z: -1.11022296e-17}
+      rotation: {x: -0.00007391674, y: -0.03745278, z: -0.00197221, w: 0.9992965}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:RRing3
+      parentName: 
+      position: {x: -0.022538673, y: -1.4502288e-16, z: -1.11022296e-17}
+      rotation: {x: 7.122775e-15, y: -0.00058247277, z: 1.2512975e-11, w: 0.9999998}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:RMiddle1
+      parentName: 
+      position: {x: -0.11739647, y: -0.021311132, z: 0.009767815}
+      rotation: {x: 0.9875017, y: 0.15645741, z: -0.012041581, w: -0.014710523}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:RMiddle2
+      parentName: 
+      position: {x: -0.06987747, y: -2.7755574e-17, z: 6.661338e-17}
+      rotation: {x: -0.061195325, y: -0.01138403, z: -0.02236192, w: 0.99781036}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:RMiddle3
+      parentName: 
+      position: {x: -0.072428964, y: 3.330669e-17, z: -2.2204459e-17}
+      rotation: {x: -0.017909713, y: 0.048522603, z: 0.345803, w: 0.9368805}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:RIndex1
+      parentName: 
+      position: {x: -0.12501423, y: -0.0071082544, z: 0.08180938}
+      rotation: {x: 0.9856713, y: 0.16341533, z: -0.0417917, w: 0.0010710929}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:RIndex2
+      parentName: 
+      position: {x: -0.086586855, y: 1.11022296e-17, z: -6.661338e-17}
+      rotation: {x: 0.0007499456, y: 0.0017492605, z: -0.037260663, w: 0.99930376}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:RIndex3
+      parentName: 
+      position: {x: -0.07000736, y: 6.661338e-17, z: 2.2204459e-17}
+      rotation: {x: 0.008439622, y: -0.06855662, z: 0.12189025, w: 0.99013716}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:RThumb1
+      parentName: 
+      position: {x: -0.03525267, y: -0.020771226, z: 0.09227669}
+      rotation: {x: -0.6602842, y: 0.1624152, z: 0.40758187, w: 0.60952693}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:RThumb2
+      parentName: 
+      position: {x: -0.055757586, y: 0, z: 2.2204459e-17}
+      rotation: {x: -0.02572557, y: -0.023119437, z: -0.022567363, w: 0.9991468}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:RThumb3
+      parentName: 
+      position: {x: -0.063282646, y: 2.2204459e-17, z: 0}
+      rotation: {x: 0.023985805, y: 0.107695304, z: -0.21606538, w: 0.97012484}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:LShoulder
+      parentName: 
+      position: {x: -0.054584675, y: 0.46474734, z: -0.024940344}
+      rotation: {x: -0.74836946, y: -0.13843828, z: 0.07858228, w: 0.64389676}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:LBicep
+      parentName: 
+      position: {x: -0.27698284, y: 9.992007e-17, z: 1.7347233e-16}
+      rotation: {x: 0.15804274, y: 0.13428816, z: 0.03444144, w: 0.9776518}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:LForearm
+      parentName: 
+      position: {x: -0.2524132, y: 3.330669e-17, z: 8.8817837e-17}
+      rotation: {x: -0.0035892243, y: 0.017968284, z: 0.024385905, w: 0.9995347}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:LHand
+      parentName: 
+      position: {x: -0.327329, y: 6.661338e-17, z: 7.494005e-16}
+      rotation: {x: 0.5994546, y: -0.041758824, z: -0.041560672, w: 0.79823756}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:LPinky1
+      parentName: 
+      position: {x: -0.09982746, y: -0.0074688825, z: -0.030542145}
+      rotation: {x: 0.9678892, y: -0.06658782, z: 0.24239542, w: 0.0010452151}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:LPinky2
+      parentName: 
+      position: {x: -0.033355225, y: 7.719519e-18, z: 0}
+      rotation: {x: -0.00002967204, y: -0.0066379076, z: -0.004469946, w: 0.999968}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:LPinky3
+      parentName: 
+      position: {x: -0.016219607, y: -1.2810933e-16, z: -1.11022296e-17}
+      rotation: {x: -0.000029536977, y: 0.0022096625, z: 0.013365964, w: 0.99990827}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:LRing1
+      parentName: 
+      position: {x: -0.10793395, y: 0.0037271706, z: -0.010816335}
+      rotation: {x: 0.98854166, y: -0.028889392, z: 0.14792196, w: 0.0083602145}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:LRing2
+      parentName: 
+      position: {x: -0.035794996, y: 2.8796407e-17, z: 0}
+      rotation: {x: -0.00007391674, y: -0.03745278, z: -0.00197221, w: 0.9992965}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:LRing3
+      parentName: 
+      position: {x: -0.022538673, y: -5.724587e-17, z: 0}
+      rotation: {x: 1.0116907e-14, y: -0.00058247277, z: 1.7337964e-11, w: 0.9999998}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:LMiddle1
+      parentName: 
+      position: {x: -0.11739647, y: -0.021311132, z: 0.009767815}
+      rotation: {x: 0.9875016, y: 0.156458, z: -0.01204146, w: -0.014710523}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:LMiddle2
+      parentName: 
+      position: {x: -0.06987747, y: -7.2164494e-17, z: 0}
+      rotation: {x: -0.061195347, y: -0.011383667, z: -0.022359712, w: 0.9978104}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:LMiddle3
+      parentName: 
+      position: {x: -0.072428964, y: -3.8857802e-17, z: 0}
+      rotation: {x: -0.017909713, y: 0.048522603, z: 0.345803, w: 0.9368805}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:LIndex1
+      parentName: 
+      position: {x: -0.12501423, y: -0.0071082544, z: 0.08180938}
+      rotation: {x: 0.9856713, y: 0.16341518, z: -0.041791644, w: 0.0010710749}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:LIndex2
+      parentName: 
+      position: {x: -0.086586855, y: 0, z: 0}
+      rotation: {x: 0.000749956, y: 0.0017493676, z: -0.037260767, w: 0.99930376}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:LIndex3
+      parentName: 
+      position: {x: -0.07000736, y: 3.330669e-17, z: 4.4408918e-17}
+      rotation: {x: 0.008439622, y: -0.06855662, z: 0.12189025, w: 0.99013716}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:LThumb1
+      parentName: 
+      position: {x: -0.03525267, y: -0.020771226, z: 0.09227669}
+      rotation: {x: -0.66028404, y: 0.16241482, z: 0.40758213, w: 0.60952705}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:LThumb2
+      parentName: 
+      position: {x: -0.055757586, y: -1.5543121e-16, z: 4.4408918e-17}
+      rotation: {x: -0.025725253, y: -0.023119884, z: -0.022567438, w: 0.9991469}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:LThumb3
+      parentName: 
+      position: {x: -0.063282646, y: 1.3322676e-16, z: -2.2204459e-17}
+      rotation: {x: 0.023985805, y: 0.107695304, z: -0.21606538, w: 0.97012484}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:Neck
+      parentName: 
+      position: {x: -1.9721521e-32, y: 0.4702559, z: -0.010483073}
+      rotation: {x: -0.050790567, y: -0.050790567, z: -0.7052803, w: 0.7052803}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:Head
+      parentName: 
+      position: {x: -0.11143027, y: -2.1693673e-31, z: -1.11022296e-17}
+      rotation: {x: 4.1199683e-18, y: 0.021554649, z: -1.3969267e-16, w: 0.99976766}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:LThigh
+      parentName: 
+      position: {x: -0.13606477, y: -0.11584335, z: 0.019131515}
+      rotation: {x: -0.5181181, y: -0.4910988, z: 0.5226755, w: 0.46603215}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:LShin
+      parentName: 
+      position: {x: -0.3267884, y: -3.4694467e-18, z: -7.0906815e-18}
+      rotation: {x: -5.551115e-17, y: -7.0195586e-33, z: -0.15624376, w: 0.9877185}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:LFootBone1
+      parentName: 
+      position: {x: -0.42865068, y: -1.3322676e-16, z: 4.4814845e-15}
+      rotation: {x: -0.09401967, y: 0.05243589, z: 0.5610596, w: 0.8207454}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:LFootBone2
+      parentName: 
+      position: {x: -0.12131787, y: 1.8041123e-17, z: -1.3877787e-17}
+      rotation: {x: 0.0066673276, y: -0.012814906, z: 0.12508164, w: 0.9920413}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:RThigh
+      parentName: 
+      position: {x: 0.13606477, y: -0.11584335, z: 0.019131515}
+      rotation: {x: 0.5226755, y: 0.46603215, z: -0.5181181, w: -0.4910988}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:RShin
+      parentName: 
+      position: {x: -0.3267884, y: 2.7755574e-18, z: -1.8518172e-17}
+      rotation: {x: -5.551115e-17, y: 5.551115e-17, z: -0.15624376, w: 0.9877185}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:RFootBone1
+      parentName: 
+      position: {x: -0.42865068, y: 2.2204459e-16, z: -5.790507e-16}
+      rotation: {x: 0.09401967, y: -0.05243589, z: 0.5610596, w: 0.8207454}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Biped_Shadow:RFootBone2
+      parentName: 
+      position: {x: -0.12131787, y: 2.7755574e-18, z: 9.540978e-18}
+      rotation: {x: -0.0066673276, y: 0.012814906, z: 0.12508164, w: 0.9920413}
+      scale: {x: 1, y: 1, z: 1}
+    - name: soldier_03
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 10
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
